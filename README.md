@@ -18,7 +18,7 @@ My name is **Reema Rao** and I'm currently a Data Science Intern at FedEx Datawo
 **Fun facts**:female_detective:
 
 * :recycle: Sustainability Enthusiast who wants to use AI and Data Science for Sustainable Development.
-* :woman_student: Currently pursuing Master's Degree in Business Analytics from the **University of Texas at Dallas** to improve my skills as a Data Scientist. 
+* :woman_student: Currently pursuing Master's Degree in Business Analytics from the **University of Texas at Dallas** to improve skills as a Data Scientist. 
 * 📈 Interested in **`Statistics`**, **`Machine Learning`** and **`A/B Testing`** to solve interesting business problems.
 * :books: Avid reader who can spend hours reading about space :space_invader: :milky_way:
 
