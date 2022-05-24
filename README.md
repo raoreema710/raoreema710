@@ -13,7 +13,7 @@
 <br />
 
 ## Welcome to my GitHub! :octocat:
-I'm **Reema Rao** and I'm currently a Data Science Intern at FedEx Dataworks.
+My name is **Reema Rao** and I'm currently a Data Science Intern at FedEx Dataworks.
 
 **Fun facts**:female_detective:
 
